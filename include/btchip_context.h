@@ -279,6 +279,7 @@ typedef enum btchip_coin_kind_e {
     COIN_KIND_STRATIS,
     COIN_KIND_PEERCOIN,
     COIN_KIND_PIVX,
+    COIN_KIND_DIVI,
     COIN_KIND_STEALTH,
     COIN_KIND_VIACOIN,
     COIN_KIND_VERTCOIN,
