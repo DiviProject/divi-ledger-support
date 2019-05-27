@@ -1,3 +1,18 @@
+# divi-ledger-support
+
+Assuming you're able to build and deploy the sample ledger apps then run the following commands to build and deploy this:
+
+`make load`
+
+`make load COIN=divi`
+
+Notes:
+
+- The images are just copies of the PIVX images at the moment.
+- The parameters for Divi in the Makefile are unlikely to be correct.
+
+The rest of this file is forked from the ledger-app-btc project.
+
 # ledger-app-btc
 Bitcoin wallet application for Ledger Blue and Nano S
 
